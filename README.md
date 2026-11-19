@@ -174,4 +174,4 @@
 ---
 
 **Ссылка на Git-репозиторий с кодом программы:**  
-[https://github.com/agafonovasofa631-collab/-4-.git](https://github.com/agafonovasofa631-collab/-4-.git)
+https://github.com/agafonovasofa631-collab/4.git
